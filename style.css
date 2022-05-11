@@ -1,0 +1,13 @@
+img {
+  width: 500px;
+  height: auto
+}
+.titulo {
+  border: solid;
+  background-color: lightyellow
+}
+
+body {
+  background-color: lightsalmon
+}
+
